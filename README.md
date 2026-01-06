@@ -1,5 +1,5 @@
 # Task-3-data-Validation-and-Cleaning-
-Detects duplicates and removes using Data-> remove Duplicate value 
+Detects duplicates and remove using Data-> remove Duplicate value 
 replace empty cells using unknown text  
 =if(isblank([@gender]),"unknown",[@gender])
 taking average in performace column and filled that average value in empty cells
